@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -13,6 +14,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

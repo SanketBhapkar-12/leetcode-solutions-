@@ -10,6 +10,7 @@
 | [0509-fibonacci-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/1518-water-bottles) |
 | [3870-count-commas-in-range](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |

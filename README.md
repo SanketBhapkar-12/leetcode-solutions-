@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0509-fibonacci-number) |
@@ -39,6 +40,7 @@
 | [0042-trapping-rain-water](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -78,6 +80,7 @@
 | [0075-sort-colors](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort

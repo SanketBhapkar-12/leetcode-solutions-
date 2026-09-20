@@ -7,6 +7,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/1518-water-bottles) |
@@ -114,4 +115,8 @@
 | [0125-valid-palindrome](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

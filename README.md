@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -87,6 +88,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -115,6 +117,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
 ## Brainteaser
 |  |

@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0319-bulb-switcher) |

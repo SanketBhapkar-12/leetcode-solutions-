@@ -48,6 +48,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0334-increasing-triplet-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0319-bulb-switcher) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->

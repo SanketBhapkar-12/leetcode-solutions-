@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/1518-water-bottles) |
 | [3870-count-commas-in-range](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/3870-count-commas-in-range) |
@@ -32,6 +33,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/1518-water-bottles) |
 ## Array
 |  |
@@ -128,6 +130,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
 ## Brainteaser
 |  |

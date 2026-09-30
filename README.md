@@ -49,6 +49,7 @@
 | [0136-single-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0334-increasing-triplet-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -144,8 +146,10 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->

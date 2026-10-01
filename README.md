@@ -13,6 +13,7 @@
 | [0412-fizz-buzz](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/1518-water-bottles) |
+| [2396-strictly-palindromic-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/2396-strictly-palindromic-number) |
 | [3870-count-commas-in-range](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -103,6 +104,7 @@
 | [0392-is-subsequence](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/2396-strictly-palindromic-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/2396-strictly-palindromic-number) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |

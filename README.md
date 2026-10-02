@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0319-bulb-switcher) |
@@ -45,6 +46,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0136-single-number) |

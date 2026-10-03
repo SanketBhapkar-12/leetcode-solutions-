@@ -58,6 +58,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/1572-matrix-diagonal-sum) |
+| [3978-unique-middle-element](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/3978-unique-middle-element) |
 ## Sorting
 |  |
 | ------- |
@@ -157,4 +158,8 @@
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/1572-matrix-diagonal-sum) |
+## Counting
+|  |
+| ------- |
+| [3978-unique-middle-element](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/3978-unique-middle-element) |
 <!---LeetCode Topics End-->

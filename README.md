@@ -162,4 +162,8 @@
 |  |
 | ------- |
 | [3978-unique-middle-element](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/3978-unique-middle-element) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

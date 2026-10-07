@@ -169,4 +169,5 @@
 | [0182-duplicate-emails](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/0577-employee-bonus) |
+| [1683-invalid-tweets](https://github.com/SanketBhapkar-12/leetcode-solutions-/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
